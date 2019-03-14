@@ -1,0 +1,748 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Buil",
+				"BuildGeometryBuffers"
+			],
+			[
+				"Build",
+				"BuildVertexLayout"
+			],
+			[
+				"mBox",
+				"mBoxIB"
+			],
+			[
+				"Box",
+				"BoxApp"
+			],
+			[
+				"mfx",
+				"mfxWorldViewProj"
+			],
+			[
+				"mT",
+				"mTech"
+			],
+			[
+				"mB",
+				"mBoxIB"
+			],
+			[
+				"mBo",
+				"mBoxVB"
+			],
+			[
+				"Xm",
+				"XMFLOAT4X4"
+			],
+			[
+				"I",
+				"ID3DX11Effect"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"sz",
+				"size"
+			],
+			[
+				"s",
+				"substr"
+			],
+			[
+				"A",
+				"Answer"
+			],
+			[
+				"fal",
+				"flag"
+			],
+			[
+				"an",
+				"Answer"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"c",
+				"current"
+			],
+			[
+				"is",
+				"IsEmpty"
+			],
+			[
+				"Is",
+				"IsFull"
+			],
+			[
+				"p",
+				"Pop"
+			],
+			[
+				"Find",
+				"FindPrev"
+			],
+			[
+				"S",
+				"Square"
+			],
+			[
+				"cout",
+				"CountNegative"
+			],
+			[
+				"FI",
+				"Fibonacci_Stack"
+			],
+			[
+				"coun",
+				"CountHeight"
+			],
+			[
+				"Coun",
+				"CountHeight"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"Pr",
+				"Prev"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"Fie",
+				"FindPrev"
+			],
+			[
+				"tes",
+				"testB"
+			],
+			[
+				"P",
+				"Pop"
+			],
+			[
+				"prin",
+				"PrintLRN"
+			],
+			[
+				"In",
+				"Input"
+			],
+			[
+				"cou",
+				"CountFullNodes"
+			],
+			[
+				"con",
+				"count"
+			],
+			[
+				"Co",
+				"CountNode"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"PrintRNL",
+				"PrintRLN"
+			],
+			[
+				"print",
+				"PrintLNR"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"for",
+				"forbiden"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"ma",
+				"max"
+			],
+			[
+				"reu",
+				"result"
+			],
+			[
+				"a",
+				"AmountOfEachNumber"
+			],
+			[
+				"pr",
+				"prevresult"
+			],
+			[
+				"fa",
+				"flag"
+			],
+			[
+				"pa",
+				"PlaceQueen"
+			],
+			[
+				"Che",
+				"CheckSafe"
+			],
+			[
+				"chec",
+				"CheckSafe"
+			],
+			[
+				"b",
+				"Board"
+			],
+			[
+				"Move",
+				"MoveCursor"
+			],
+			[
+				"MA",
+				"MaxMove"
+			],
+			[
+				"Ma",
+				"MaxMove"
+			],
+			[
+				"Max",
+				"MaxSizeOfLine"
+			],
+			[
+				"num",
+				"NumberOfColumn"
+			],
+			[
+				"Li",
+				"Line"
+			],
+			[
+				"NumberOf",
+				"NumberOfLine"
+			],
+			[
+				"nu",
+				"NumberOfLine"
+			],
+			[
+				"Num",
+				"NumberOfLine"
+			],
+			[
+				"se",
+				"SearchColumn"
+			],
+			[
+				"numb",
+				"NumberOfColumn"
+			],
+			[
+				"line",
+				"Line"
+			],
+			[
+				"cur",
+				"Cursor"
+			],
+			[
+				"nub",
+				"NumberOfColumn"
+			],
+			[
+				"Nu",
+				"NumberOfColumn"
+			],
+			[
+				"Mo",
+				"Move"
+			],
+			[
+				"move",
+				"Move"
+			],
+			[
+				"ADd",
+				"AddCharacterInLine"
+			],
+			[
+				"Ad",
+				"AddCharacterInLine"
+			],
+			[
+				"li",
+				"Line"
+			],
+			[
+				"Str",
+				"Storage"
+			],
+			[
+				"St",
+				"Stack"
+			],
+			[
+				"av",
+				"AvgSalary"
+			],
+			[
+				"he",
+				"hesoluong"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"tham",
+				"thamnien"
+			],
+			[
+				"sw",
+				"SwapDoc"
+			],
+			[
+				"List",
+				"ListDocs"
+			],
+			[
+				"M",
+				"MaxNS"
+			],
+			[
+				"luong",
+				"luongcoban"
+			],
+			[
+				"luog",
+				"luongcoban"
+			],
+			[
+				"pT",
+				"pTail"
+			],
+			[
+				"del",
+				"DeleteNode"
+			],
+			[
+				"Input",
+				"InputList"
+			],
+			[
+				"INput",
+				"InputDoc"
+			],
+			[
+				"get",
+				"GetDoc"
+			],
+			[
+				"swa",
+				"swappedTail"
+			],
+			[
+				"ad",
+				"AddHead"
+			],
+			[
+				"S1",
+				"S1c"
+			],
+			[
+				"AD",
+				"AddNumtoList"
+			],
+			[
+				"LIst",
+				"ListStudent"
+			],
+			[
+				"Pin",
+				"PrintMaxScores"
+			],
+			[
+				"name",
+				"Name"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"pR",
+				"pPrev"
+			],
+			[
+				"if",
+				"info"
+			],
+			[
+				"Dele",
+				"DeleteNode"
+			],
+			[
+				"Ins",
+				"InsertNode"
+			],
+			[
+				"Delete",
+				"DeleteHead"
+			],
+			[
+				"De",
+				"DeleteTail"
+			],
+			[
+				"Sort",
+				"SortList"
+			],
+			[
+				"Del",
+				"DeleteNode"
+			],
+			[
+				"Deele",
+				"DeleteHead"
+			],
+			[
+				"Count",
+				"CountNode"
+			],
+			[
+				"add",
+				"AddTail"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"be",
+				"begind"
+			],
+			[
+				"R",
+				"Result"
+			],
+			[
+				"vec",
+				"vect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/DirectX_Programming/EDX Course/hw1-windows/hw1-windows/Transform.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Waves/WavesDemo.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 8 Texturing/Crate/CrateDemo.cpp",
+		"/E/DirectX_Programming/EDX Course/hw0-windows_VS2012/hw0-windows/shaders.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 7 Lighting/Lighting/FX/LightHelper.fx",
+		"/E/DirectX_Programming/Demos/Chapter 7 Lighting/Lighting/FX/Lighting.fx",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Waves/FX/color.fx",
+		"/E/DirectX_Programming/Demos/Chapter 8 Texturing/Crate/Vertex.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 8 Texturing/Crate/Vertex.h",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Waves/Waves.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Waves/Waves.h",
+		"/E/DirectX_Programming/Demos/Chapter 7 Lighting/LitSkull/LitSkullDemo.cpp",
+		"/D/Project C++/Hackerrank-TestCode/Hackerrank.cpp",
+		"/E/DirectX_Programming/Graphic_Programming_Project/Lighting Box/Lighting Box.cpp",
+		"/E/DirectX_Programming/Graphic_Programming_Project/Rotating Texture/CrateDemo.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 8 Texturing/Crate/FX/LightHelper.fx",
+		"/E/DirectX_Programming/Demos/Chapter 8 Texturing/Crate/Effects.h",
+		"/E/DirectX_Programming/Graphic_Programming_Project/Multi_Texturing/Basic.fx",
+		"/E/DirectX_Programming/Graphic_Programming_Project/Multi_Texturing/Effects.h",
+		"/E/DirectX_Programming/Graphic_Programming_Project/Multi_Texturing/CrateDemo.cpp",
+		"/E/DirectX_Programming/Graphic_Programming_Project/Multi_Texturing/Effects.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 8 Texturing/Crate/Effects.cpp",
+		"/E/DirectX_Programming/Demos/Common/d3dUtil.h",
+		"/E/DirectX_Programming/Demos/Common/d3dUtil.cpp",
+		"/C/Users/Hoang Trung/Desktop/hosts",
+		"/E/DirectX_Programming/Demos/Chapter 8 Texturing/Crate/FX/Basic.fx",
+		"/E/DirectX_Programming/Demos/Common/MathHelper.h",
+		"/E/Hacktoberfest/I/Iconoclast.json",
+		"/E/Hacktoberfest/I/Isentropic.json",
+		"/E/Hacktoberfest/I/Ivories - Copy.json",
+		"/E/Hacktoberfest/I/Iteroparous.json",
+		"/E/Hacktoberfest/I/Ivories.json",
+		"/E/Hacktoberfest/T/Top.json",
+		"/E/Hacktoberfest/N/Nibble.json",
+		"/E/hacktoberfest1/CONTRIBUTORS.md",
+		"/E/Hacktoberfest/L/Load.json",
+		"/E/Hacktoberfest/V/Vapor.json",
+		"/E/Hacktoberfest/V/Vapid.json",
+		"/E/Hacktoberfest/V/Vape.json",
+		"/E/Hacktoberfest/V/Vacancy.json",
+		"/E/Hacktoberfest/V/Vacant.json",
+		"/E/Hacktoberfest/Z/Zombie.json",
+		"/E/Hacktoberfest/Z/Zika.json",
+		"/E/Hacktoberfest/Z/Zucchini.json",
+		"/E/Hacktoberfest/Z/Zebra.json",
+		"/E/Hacktoberfest/P/Programmer.json",
+		"/E/Hacktoberfest/T/Trace.json",
+		"/E/Hacktoberfest/T/Trend.json",
+		"/E/Hacktoberfest/T/Track.json",
+		"/E/Hacktoberfest/T/Trust.json",
+		"/E/Hacktoberfest/T/Trunk.json",
+		"/E/Hacktoberfest/B/Bark.json",
+		"/E/Hacktoberfest/A/Ammo.json",
+		"/E/Hacktoberfest/T/Battledress.json",
+		"/E/Hacktoberfest/B/Bulletproof.json",
+		"/E/Hacktoberfest/C/Catapult.json",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Box/BoxDemo.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 7 Lighting/Lighting/LightingDemo.cpp",
+		"/E/DirectX_Programming/Projects/Box/Pratice.cpp",
+		"/E/Tài Liệu UIT HK1/Nhập Môn Mạng Máy Tính/Thực Hành/17521176.html",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Shapes/ShapesDemo.cpp",
+		"/E/DirectX_Programming/Projects/Box/FX/color.cod",
+		"/D/Project C++/Hackerrank-TestCode/Hackerrank1.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Hills/HillsDemo.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Skull/Models/skull.txt",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Hills/FX/color.fx",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Box/FX/color.fx",
+		"/C/Program Files/Epic Games/UE_4.19/Engine/Source/Runtime/RenderCore/Private/RenderingThread.cpp",
+		"/C/Program Files/Epic Games/UE_4.19/Engine/Source/Runtime/RenderCore/Private/RenderCore.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Box/FX/color.cod",
+		"/E/DirectX_Programming/Projects/Box/Box.cpp",
+		"/E/DirectX_Programming/Demos/Common/d3dApp.h",
+		"/E/DirectX_Programming/Demos/Common/d3dApp.cpp",
+		"/E/DirectX_Programming/Projects/TestBuild/TestCode.cpp",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Skull/FX/color.cod",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Shapes/FX/color.fx",
+		"/E/DirectX_Programming/Demos/Chapter 6 Drawing in Direct3D/Hills/FX/color.fxo",
+		"/D/Project C++/The-NOOB/Task/1_8/Trung/StoreWithList.cpp",
+		"/D/Project C++/The-NOOB/Task/1_8/Trung/InDoThiVoHuongMTK.cpp",
+		"/D/Project C++/The-NOOB/Task/1_8/Trung/input.txt",
+		"/D/Project C++/The-NOOB/Task/1_8/Trung/InDoThiHuuHuongDSC.cpp",
+		"/D/Project C++/The-NOOB/Task/1_8/Trung/input3.txt",
+		"/E/StoreWithList.cpp",
+		"/E/StoreWithMatrix.cpp",
+		"/D/Project C++/The-NOOB/Task/1_8/Trung/GenerateTestCase.cpp",
+		"/D/Project C++/The-NOOB/Task/1_8/Trung/InDoThiHuuHuongMTK.cpp",
+		"/D/Project C++/The-NOOB/Task/1_8/Trung/InDoThiVoHuongDSK.cpp",
+		"/D/Project C++/The-NOOB/Task/1_8/Trung/InDoThi.cpp",
+		"/D/Project C++/The-NOOB/Task/Trung/GenerateTestCase.cpp",
+		"/D/Project C++/The-NOOB/Task/Trung/InDoThi.cpp",
+		"/D/Project C++/The-NOOB/Task/Trung/input3.txt",
+		"/D/Project C++/The-NOOB/Task/Trung/input.txt",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/AfricanCrossword.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/DienDau.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/Mapping.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/SinhNhiPhan.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/FirstNumber.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/Lecture.cpp",
+		"/E/DirectX_Programming/Demos/Common/GameTimer.h",
+		"/E/DirectX_Programming/Demos/Common/GameTimer.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/BusAllocation.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/LaraCroft.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/AlmostArithmeticProgression.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/Letters.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/SortTheArray.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/ChatRoom.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/Taxi.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/SumofPalindromenumbers.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/RepeatandMissingNumberArray.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/DivideByThreeMultiplyByTwo.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Sorting Algorithm/CountingSort.cpp",
+		"/E/Line.cpp",
+		"/E/Tài Liệu HK2/OOP/GiaiDeThiOOP_UIT_by_tiendz/VoLam_HK3_2015_2016/QuaiVat.cpp",
+		"/E/Tài Liệu HK2/OOP/GiaiDeThiOOP_UIT_by_tiendz/VoLam_HK3_2015_2016/main.cpp",
+		"/E/Tài Liệu HK2/OOP/GiaiDeThiOOP_UIT_by_tiendz/VoLam_HK3_2015_2016/NhanVat.cpp",
+		"/E/1.cpp",
+		"/E/Tài Liệu HK2/OOP/GiaiDeThiOOP_UIT_by_tiendz/CoTuong_HK2_2014_2015/QuanCo.cpp",
+		"/E/Tài Liệu HK2/OOP/GiaiDeThiOOP_UIT_by_tiendz/CoTuong_HK2_2014_2015/main.cpp",
+		"/E/Tài Liệu HK2/OOP/GiaiDeThiOOP_UIT_by_tiendz/NotNhac_HK2_2015_2016/NotNhac.cpp",
+		"/D/Project C++/ThucHanhUIT/[First Year] Object Oriented Programming/BT_ThiCuoiKyThucHanh/ThiCuoiKyThucHanh/Bai1/LopHoc.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/ThrowingACard.cpp",
+		"/D/Project C++/Data-Structures-and-Algorithms/Codeforces/StreetParade.cpp",
+		"/D/Project C++/ThucHanhUIT/[First Year] DataStructure&Algorithm/LyThuyet/BaiTapThayKhang/Stack_bai5.cpp",
+		"/E/Bai-62.cpp",
+		"/E/SACH.cpp",
+		"/E/An_11-19.cpp",
+		"/D/17521176_TH_Buoi5/Buoi5_bai2.cpp",
+		"/D/17521176_TH_Buoi5/Buoi5_bai5.cpp"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++Compiler.sublime-build",
+	"project": "hw0-windows.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
